@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:emp="http://fpo.com/poc-spring-boot-soap">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <emp:getEmployeeRequest>
+            <emp:name>John</emp:name>
+        </emp:getEmployeeRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
