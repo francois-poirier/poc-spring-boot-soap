@@ -15,7 +15,7 @@ Clone or fork the repo
 
      git clone https://github.com/francois-poirier/poc-spring-boot-soap.git
      cd poc-spring-boot-soap
-     mvnw spring-boot:run
+     ./mvnw spring-boot:run
 
 You can go to Postman and enter the following information:
 
