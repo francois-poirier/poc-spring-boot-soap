@@ -21,7 +21,7 @@ public class EmployeeService {
         john.setSalary(1500);
         Employee.Address johnAdress = new Employee.Address();
         johnAdress.setAddressLine1("foo");
-        johnAdress.setAddressLine1("foo2");
+        johnAdress.setAddressLine2("foo2");
         johnAdress.setCountry("Spain");
         johnAdress.setState("Madrid");
         johnAdress.setZip((short) 28054);
@@ -33,7 +33,7 @@ public class EmployeeService {
         samuel.setSalary(2000);
         Employee.Address samuelAdress = new Employee.Address();
         samuelAdress.setAddressLine1("bar");
-        samuelAdress.setAddressLine1("bar2");
+        samuelAdress.setAddressLine2("bar2");
         samuelAdress.setCountry("Spain");
         samuelAdress.setState("Madrid");
         samuelAdress.setZip((short) 28033);

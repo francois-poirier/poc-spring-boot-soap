@@ -28,7 +28,7 @@ ContentType text/xml in Headers Tab
 Xml Body message in Body Tab
 
 
-![alt tag](https://user-images.githubusercontent.com/14827478/36944418-05696464-1f9c-11e8-8176-b4b2c3b31c1b.png)
+![alt tag](https://user-images.githubusercontent.com/14827478/36965271-770c96a0-2059-11e8-944b-430841328e68.png)
 
 
 
